@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Santiago, desarrollador Fullstack de 21 años con experiencia en React, Vue y Laravel.  <br>Me adapto rápido a cualquier proyecto y disfruto resolver retos técnicos con soluciones claras y eficientes.  <br><br>- 🔧 Capaz de trabajar en lo que se necesite, desde frontend dinámico hasta backend robusto.  <br>- 🚀 Enfocado en entregar resultados funcionales, escalables y bien estructurados.  <br>- 📈 Siempre aprendiendo y mejorando para aportar valor en cada colaboración.  <br><br>Si buscas alguien versátil y comprometido, aquí encontrarás un desarrollador listo para construir lo que haga falta.
+Soy Santiago, desarrollador Fullstack con 3 años de experiencia en React, Vue y Laravel.  <br>Me adapto rápido a cualquier proyecto y disfruto resolver retos técnicos con soluciones claras y eficientes.  <br><br>- 🔧 Capaz de trabajar en lo que se necesite, desde frontend dinámico hasta backend robusto.  <br>- 🚀 Enfocado en entregar resultados funcionales, escalables y bien estructurados.  <br>- 📈 Siempre aprendiendo y mejorando para aportar valor en cada colaboración.  <br><br>Si buscas alguien versátil y comprometido, aquí encontrarás un desarrollador listo para construir lo que haga falta.
 
 
 ## 🌐 Socials:
